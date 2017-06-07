@@ -8,7 +8,14 @@
       <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
       <jdbc-url>jdbc:oracle:thin:@192.168.80.10:1521:orcl</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="@192.168.80.10(crm)" uuid="ae3dc918-6dcc-4bc1-8cdc-3ac09178d7db">
+    <data-source source="LOCAL" name="@192.168.80.10 [crm]" uuid="ae3dc918-6dcc-4bc1-8cdc-3ac09178d7db">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@192.168.80.10:1521:orcl</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="@192.168.80.10 [system]" uuid="c9a7c954-1c7b-474c-a970-73ab1a013cb4">
       <driver-ref>oracle</driver-ref>
       <synchronize>true</synchronize>
       <auto-commit>false</auto-commit>

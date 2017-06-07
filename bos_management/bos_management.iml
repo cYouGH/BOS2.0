@@ -20,6 +20,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+     <orderEntry type="module" module-name="crm_domain" />
     <orderEntry type="library" name="Maven: org.apache.shiro:shiro-all:1.2.2" level="project" />
     <orderEntry type="library" name="Maven: org.apache.shiro:shiro-guice:1.2.2" level="project" />
     <orderEntry type="library" name="Maven: org.apache.shiro:shiro-core:1.2.2" level="project" />
@@ -120,7 +121,7 @@
     <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.1.37" level="project" />
     <orderEntry type="library" name="Maven: com.colobu:fastjson-jaxrs-json-provider:0.3.1" level="project" />
     <orderEntry type="library" name="Maven: com.belerweb:pinyin4j:2.5.0" level="project" />
-    <orderEntry type="module-library">
+ s   <orderEntry type="module-library">
       <library name="JUnit4">
         <CLASSES>
           <root url="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/" />

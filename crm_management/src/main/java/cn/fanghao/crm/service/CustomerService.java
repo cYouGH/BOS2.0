@@ -13,19 +13,19 @@ public interface CustomerService {
 
 
     //查询所有未关联的客户列表
-    @Path("/noassciationcustomers")
+    @Path("/noassociationcustomers")
     @GET
     @Produces({"application/xml","application/json"})
      List<Customer> findNoAssociationCustomers();
 
     //已经关联到指定定区的客户列表
-    @Path("/assciationfixedareacustomers/{fixedareaid}")
+    @Path("/associationfixedareacustomers/{fixedareaid}")
     @GET
     @Produces({"application/xml","application/json"})
       List<Customer> findHasAssociationFixedAreaCustomers(@PathParam("fixedareaid") String fixedAreaId);
 
     //将客户关联到定区上
-    @Path("/assciationcustomerstofixedarea")
+    @Path("/associationcustomerstofixedarea")
     @PUT
      void associationCustomersToFixedArea(
             @QueryParam("customerIdStr") String customerIdStr,

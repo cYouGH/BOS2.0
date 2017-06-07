@@ -3,6 +3,7 @@ package cn.fanghao.crm.service.impl;
 import cn.fanghao.crm.dao.CustomerRepository;
 import cn.fanghao.crm.domain.Customer;
 import cn.fanghao.crm.service.CustomerService;
+import org.apache.commons.lang.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
@@ -31,10 +32,18 @@ public class CustomerServiceImpl implements CustomerService {
 
     @Override
     public void associationCustomersToFixedArea(String customerIdStr, String fixedAreaId) {
+        //解除关联动作
+        customerRepository.clearFixedAreaId(fixedAreaId);
+//        System.out.println(fixedAreaId+"     "+customerIdStr);
+
+        // 切割字符串 1,2,3
+        if (StringUtils.isBlank(customerIdStr)) {
+            return;
+        }
         String[] customerIdArray = customerIdStr.split(",");
         for (String idStr : customerIdArray) {
             Integer id = Integer.parseInt(idStr);
-            customerRepository.updateFixedAreaId(fixedAreaId,id);
+            customerRepository.updateFixedAreaId(fixedAreaId, id);
         }
     }
 }

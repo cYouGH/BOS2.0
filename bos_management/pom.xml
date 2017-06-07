@@ -16,7 +16,15 @@
     <packaging>war</packaging>
     <name>bos_management</name>
     <description>核心业务管理平台</description>
+    <dependencies>
+        <dependency>
 
+            <groupId>cn.fanghao.manven</groupId>
+            <artifactId>crm_domain</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+    </dependencies>
     <build>
         <finalName>bos</finalName>
         <pluginManagement>
