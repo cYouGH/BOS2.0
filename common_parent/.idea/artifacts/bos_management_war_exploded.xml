@@ -5,6 +5,7 @@
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="bos_management" />
+          <element id="module-output" name="crm_domain" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.apache.shiro:shiro-all:1.2.2" />
@@ -103,6 +104,8 @@
           <element id="library" level="project" name="Maven: stax:stax-api:1.0.1" />
           <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.1.37" />
           <element id="library" level="project" name="Maven: com.colobu:fastjson-jaxrs-json-provider:0.3.1" />
+          <element id="library" level="project" name="Maven: com.belerweb:pinyin4j:2.5.0" />
+          <element id="library" level="module" name="JUnit4" module-name="bos_management" />
         </element>
       </element>
       <element id="directory" name="META-INF">

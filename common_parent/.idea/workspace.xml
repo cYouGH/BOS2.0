@@ -2,523 +2,35 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/../crm_management/src/main/java/cn/fanghao/crm/service/impl/CustomerServiceImpl.java" line="29" />
+    <bookmark url="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/FixedAreaAction.java" line="151" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96ba609c-9c03-49a4-b6e4-6588cadb8c21" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/cn/fanghao/bos/dao/base/AreaRepository.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/cn/fanghao/bos/dao/base/CourierRepository.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/cn/fanghao/bos/dao/base/StandardRepository.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/cn/fanghao/bos/domain/base/Archive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/cn/fanghao/bos/domain/base/Area.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/cn/fanghao/bos/domain/base/Courier.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/cn/fanghao/bos/domain/base/FixedArea.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/cn/fanghao/bos/domain/base/Standard.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/cn/fanghao/bos/domain/base/SubArchive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/cn/fanghao/bos/domain/base/SubArea.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/cn/fanghao/bos/domain/base/TakeTime.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/cn/fanghao/bos/domain/base/Vehicle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/cn/fanghao/bos/service/base/AreaService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/cn/fanghao/bos/service/base/CourierService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/cn/fanghao/bos/service/base/StandardService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/cn/fanghao/bos/service/base/impl/AreaServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/cn/fanghao/bos/service/base/impl/CourierServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/cn/fanghao/bos/service/base/impl/StandardServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/cn/fanghao/bos/utils/PinYin4jUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/cn/fanghao/bos/web/action/base/AreaAction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/cn/fanghao/bos/web/action/base/CourierAction$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/cn/fanghao/bos/web/action/base/CourierAction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/cn/fanghao/bos/web/action/base/StandarAction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/config.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/classes/log4j.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/activemq-all-5.2.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/antlr-2.7.7.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/asm-3.3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/asm-commons-3.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/asm-tree-3.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/aspectjrt-1.8.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/aspectjweaver-1.8.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/c3p0-0.9.1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/commons-beanutils-1.8.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/commons-codec-1.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/commons-io-2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/commons-lang-2.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/commons-lang3-3.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/commons-logging-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/commons-pool2-2.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/cxf-core-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/cxf-rt-bindings-soap-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/cxf-rt-bindings-xml-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/cxf-rt-databinding-jaxb-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/cxf-rt-frontend-jaxrs-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/cxf-rt-frontend-jaxws-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/cxf-rt-frontend-simple-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/cxf-rt-rs-client-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/cxf-rt-rs-extension-providers-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/cxf-rt-transports-http-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/cxf-rt-ws-addr-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/cxf-rt-ws-policy-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/cxf-rt-wsdl-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/dom4j-1.6.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/fastjson-1.1.37.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/fastjson-jaxrs-json-provider-0.3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/freemarker-2.3.22.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/geronimo-jta_1.1_spec-1.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/guava-r09.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/guice-3.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/guice-multibindings-3.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/hibernate-commons-annotations-5.0.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/hibernate-core-5.0.1.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/hibernate-entitymanager-5.0.1.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/jandex-1.2.2.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/javassist-3.11.0.GA.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/javassist-3.18.1-GA.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/javax.annotation-api-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/javax.inject-1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/javax.ws.rs-api-2.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/jaxb-core-2.2.10-b140310.1920.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/jaxb-impl-2.2.10-b140310.1920.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/jboss-logging-3.3.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/jcl-over-slf4j-1.7.12.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/jedis-2.6.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/jettison-1.3.7.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/log4j-1.2.17.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/neethi-3.0.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/ognl-3.0.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/ojdbc6-11.2.0.1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/pinyin4j-2.5.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/poi-3.11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/poi-ooxml-3.11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/poi-ooxml-schemas-3.11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/shiro-all-1.2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/shiro-core-1.2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/shiro-guice-1.2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/slf4j-api-1.7.12.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/slf4j-log4j12-1.6.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/spring-aop-4.1.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/spring-aspects-4.1.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/spring-beans-4.1.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/spring-context-4.1.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/spring-context-support-4.1.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/spring-core-4.1.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/spring-data-commons-1.11.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/spring-data-jpa-1.9.0.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/spring-data-redis-1.4.1.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/spring-expression-4.1.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/spring-jdbc-4.1.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/spring-jms-4.1.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/spring-messaging-4.1.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/spring-orm-4.1.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/spring-test-4.1.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/spring-tx-4.1.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/spring-web-4.1.7.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/stax-api-1.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/stax2-api-3.1.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/struts2-convention-plugin-2.3.24.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/struts2-core-2.3.24.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/struts2-json-plugin-2.3.24.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/struts2-spring-plugin-2.3.24.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/woodstox-core-asl-4.4.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/wsdl4j-1.6.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/xml-apis-1.0.b2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/xml-resolver-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/xmlbeans-2.6.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/xmlschema-core-2.1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/lib/xwork-core-2.3.24.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/css/default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/css/login.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/css/style_grey.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/data/admin.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/data/archives.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/data/area.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/data/association_customer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/data/courier.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/data/fixed_area.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/data/menu.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/data/standard.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/data/sub_area.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/data/take_time.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/data/users.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/data/vehicle.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/easyuidemo/1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/easyuidemo/10.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/easyuidemo/2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/easyuidemo/3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/easyuidemo/4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/easyuidemo/5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/easyuidemo/6.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/easyuidemo/7.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/easyuidemo/8.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/easyuidemo/9.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/easyuidemo/product.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/home.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/images/0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/images/bg_grey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/images/bg_login.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/images/bgx.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/images/frame.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/images/input_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/images/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/images/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/images/menu.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/images/online.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/images/reload.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/images/title.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/images/user_logout.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/ext/jquery.cookie.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/ext/jquery.portal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/ext/portal.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/jquery.easyui.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/locale/easyui-lang-zh_CN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/accordion.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/calendar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/combo.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/combobox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/datagrid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/datebox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/dialog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/easyui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/images/accordion_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/images/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/images/calendar_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/images/combo_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/images/datagrid_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/images/datebox_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/images/layout_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/images/linkbutton_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/images/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/images/menu_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/images/messager_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/images/pagination_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/images/panel_tools.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/images/searchbox_button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/images/slider_handle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/images/spinner_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/images/tabs_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/images/tree_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/images/validatebox_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/images/validatebox_warning.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/layout.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/linkbutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/menu.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/menubutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/messager.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/pagination.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/panel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/progressbar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/propertygrid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/searchbox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/slider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/spinner.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/splitbutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/tabs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/tree.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/validatebox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/black/window.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/accordion.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/calendar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/combo.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/combobox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/datagrid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/datebox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/dialog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/easyui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/images/accordion_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/images/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/images/calendar_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/images/combo_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/images/datagrid_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/images/datebox_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/images/layout_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/images/linkbutton_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/images/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/images/menu_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/images/messager_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/images/pagination_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/images/panel_tools.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/images/searchbox_button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/images/slider_handle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/images/spinner_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/images/tabs_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/images/tree_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/images/validatebox_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/images/validatebox_warning.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/layout.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/linkbutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/menu.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/menubutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/messager.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/pagination.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/panel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/progressbar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/propertygrid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/searchbox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/slider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/spinner.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/splitbutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/tabs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/tree.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/validatebox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/bootstrap/window.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/accordion.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/calendar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/combo.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/combobox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/datagrid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/datebox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/dialog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/easyui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/images/accordion_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/images/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/images/calendar_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/images/combo_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/images/datagrid_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/images/datebox_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/images/layout_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/images/linkbutton_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/images/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/images/menu_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/images/messager_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/images/pagination_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/images/panel_tools.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/images/searchbox_button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/images/slider_handle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/images/spinner_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/images/tabs_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/images/tree_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/images/validatebox_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/images/validatebox_warning.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/layout.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/linkbutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/menu.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/menubutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/messager.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/pagination.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/panel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/progressbar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/propertygrid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/searchbox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/slider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/spinner.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/splitbutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/tabs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/tree.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/validatebox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/default/window.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/accordion.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/calendar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/combo.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/combobox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/datagrid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/datebox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/dialog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/easyui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/images/accordion_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/images/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/images/calendar_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/images/combo_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/images/datagrid_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/images/datebox_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/images/layout_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/images/linkbutton_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/images/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/images/menu_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/images/messager_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/images/pagination_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/images/panel_tools.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/images/searchbox_button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/images/slider_handle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/images/spinner_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/images/tabs_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/images/tree_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/images/validatebox_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/images/validatebox_warning.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/layout.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/linkbutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/menu.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/menubutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/messager.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/pagination.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/panel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/progressbar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/propertygrid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/searchbox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/slider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/spinner.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/splitbutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/tabs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/tree.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/validatebox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/gray/window.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/icon.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/icons/back.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/icons/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/icons/cancel.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/icons/cut.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/icons/edit_add.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/icons/edit_remove.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/icons/filesave.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/icons/help.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/icons/mini_add.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/icons/mini_edit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/icons/mini_refresh.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/icons/no.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/icons/ok.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/icons/pencil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/icons/print.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/icons/redo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/icons/reload.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/icons/search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/icons/sum.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/icons/tip.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/icons/undo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/accordion.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/calendar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/combo.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/combobox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/datagrid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/datebox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/dialog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/easyui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/images/accordion_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/images/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/images/calendar_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/images/combo_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/images/datagrid_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/images/datebox_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/images/layout_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/images/linkbutton_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/images/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/images/menu_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/images/messager_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/images/pagination_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/images/panel_tools.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/images/searchbox_button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/images/slider_handle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/images/spinner_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/images/tabs_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/images/tree_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/images/validatebox_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/images/validatebox_warning.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/layout.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/linkbutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/menu.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/menubutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/messager.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/pagination.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/panel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/progressbar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/propertygrid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/searchbox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/slider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/spinner.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/splitbutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/tabs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/tree.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/validatebox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/easyui/themes/metro/window.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/jquery-1.8.3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/ocupload/jquery.ocupload-1.1.2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/ztree/img/diy/1_close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/ztree/img/diy/1_open.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/ztree/img/diy/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/ztree/img/diy/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/ztree/img/diy/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/ztree/img/diy/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/ztree/img/diy/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/ztree/img/diy/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/ztree/img/diy/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/ztree/img/diy/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/ztree/img/line_conn.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/ztree/img/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/ztree/img/zTreeStandard.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/ztree/img/zTreeStandard.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/ztree/jquery.ztree.all-3.5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/js/ztree/zTreeStyle.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/base/archives.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/base/area.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/base/courier.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/base/fixed_area.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/base/standard.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/base/sub_area.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/base/take_time.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/base/vehicle.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/portal/bug.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/portal/daiban.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/portal/gonggao.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/portal/yujing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/system/menu.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/system/menu_add.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/system/permission.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/system/permission_add.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/system/role.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/system/role_add.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/system/userindex.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/system/userinfo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/system/userlist.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/take_delivery/change_work_order.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/take_delivery/different_waybill.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/take_delivery/dispatcher.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/take_delivery/dispatcher_monitor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/take_delivery/order.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/take_delivery/promotion.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/take_delivery/promotion_add.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/take_delivery/sign_cancel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/take_delivery/sign_input.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/take_delivery/waybill.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/take_delivery/waybill_import.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/take_delivery/waybill_manage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/take_delivery/waybill_print.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/take_delivery/waybill_quick.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/take_delivery/work_order.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/transit/arrive_time.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/transit/compose_package.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/transit/in_out_search.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/transit/in_storage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/transit/make_storage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/transit/out_storage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/transit/package_search.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/pages/transit/remain_search.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/bos/validatecode.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/surefire-reports/TEST-cn.fanghao.bos.dao.base.StandardRepositoryTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/surefire-reports/cn.fanghao.bos.dao.base.StandardRepositoryTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/test-classes/applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/test-classes/cn/fanghao/bos/dao/base/StandardRepositoryTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/test-classes/config.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bos_management/target/test-classes/log4j.properties" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/dao/base/TakeTimeRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/TakeTimeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/impl/TakeTimeServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/TakeTimeAction.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/target/classes/cn/fanghao/bos/domain/base/Courier.class" afterPath="$PROJECT_DIR$/../bos_management/target/classes/cn/fanghao/bos/domain/base/Courier.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/target/classes/cn/fanghao/bos/service/base/CourierService.class" afterPath="$PROJECT_DIR$/../bos_management/target/classes/cn/fanghao/bos/service/base/CourierService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/target/classes/cn/fanghao/bos/service/base/impl/CourierServiceImpl.class" afterPath="$PROJECT_DIR$/../bos_management/target/classes/cn/fanghao/bos/service/base/impl/CourierServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/target/classes/cn/fanghao/bos/web/action/base/CourierAction.class" afterPath="$PROJECT_DIR$/../bos_management/target/classes/cn/fanghao/bos/web/action/base/CourierAction.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/target/classes/cn/fanghao/bos/web/action/base/FixedAreaAction$1.class" afterPath="$PROJECT_DIR$/../bos_management/target/classes/cn/fanghao/bos/web/action/base/FixedAreaAction$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/target/classes/cn/fanghao/bos/web/action/base/FixedAreaAction.class" afterPath="$PROJECT_DIR$/../bos_management/target/classes/cn/fanghao/bos/web/action/base/FixedAreaAction.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/a8b1bfde-dd3f-4fe7-bec1-34485eda9903/_metadata_/metadata" afterPath="$PROJECT_DIR$/.idea/dataSources/a8b1bfde-dd3f-4fe7-bec1-34485eda9903/_metadata_/metadata" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/a8b1bfde-dd3f-4fe7-bec1-34485eda9903/_metadata_/metadata.keystream" afterPath="$PROJECT_DIR$/.idea/dataSources/a8b1bfde-dd3f-4fe7-bec1-34485eda9903/_metadata_/metadata.keystream" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/a8b1bfde-dd3f-4fe7-bec1-34485eda9903/_metadata_/metadata.keystream.len" afterPath="$PROJECT_DIR$/.idea/dataSources/a8b1bfde-dd3f-4fe7-bec1-34485eda9903/_metadata_/metadata.keystream.len" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/a8b1bfde-dd3f-4fe7-bec1-34485eda9903/_metadata_/metadata.len" afterPath="$PROJECT_DIR$/.idea/dataSources/a8b1bfde-dd3f-4fe7-bec1-34485eda9903/_metadata_/metadata.len" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/a8b1bfde-dd3f-4fe7-bec1-34485eda9903/_metadata_/metadata.values.at" afterPath="$PROJECT_DIR$/.idea/dataSources/a8b1bfde-dd3f-4fe7-bec1-34485eda9903/_metadata_/metadata.values.at" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/a8b1bfde-dd3f-4fe7-bec1-34485eda9903/_metadata_/metadata_i" afterPath="$PROJECT_DIR$/.idea/dataSources/a8b1bfde-dd3f-4fe7-bec1-34485eda9903/_metadata_/metadata_i" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/bos_management.iml" afterPath="$PROJECT_DIR$/../bos_management/bos_management.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/pom.xml" afterPath="$PROJECT_DIR$/../bos_management/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/domain/base/Courier.java" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/domain/base/Courier.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/CourierService.java" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/CourierService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/FixedAreaService.java" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/FixedAreaService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/impl/CourierServiceImpl.java" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/impl/CourierServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/impl/FixedAreaServiceImpl.java" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/impl/FixedAreaServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/CourierAction.java" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/CourierAction.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/FixedAreaAction.java" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/FixedAreaAction.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/src/main/webapp/pages/base/fixed_area.html" afterPath="$PROJECT_DIR$/../bos_management/src/main/webapp/pages/base/fixed_area.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/../bos_management/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/bos_management_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/bos_management_war.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/bos_management_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/bos_management_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../crm_management/src/main/java/cn/fanghao/crm/dao/CustomerRepository.java" afterPath="$PROJECT_DIR$/../crm_management/src/main/java/cn/fanghao/crm/dao/CustomerRepository.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../crm_management/src/main/java/cn/fanghao/crm/service/CustomerService.java" afterPath="$PROJECT_DIR$/../crm_management/src/main/java/cn/fanghao/crm/service/CustomerService.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../crm_management/src/main/java/cn/fanghao/crm/service/impl/CustomerServiceImpl.java" afterPath="$PROJECT_DIR$/../crm_management/src/main/java/cn/fanghao/crm/service/impl/CustomerServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../crm_management/src/main/resources/applicationContext-webService.xml" afterPath="$PROJECT_DIR$/../crm_management/src/main/resources/applicationContext-webService.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -620,152 +132,39 @@
         <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
       </PATH_ELEMENT>
     </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="@192.168.80.10 [bos]" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="BOS" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$GroupNode" />
+      </PATH_ELEMENT>
+    </PATH>
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="common_parent" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4621131">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="fixed_area.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../bos_management/src/main/webapp/pages/base/fixed_area.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="399">
-                  <caret line="247" column="19" lean-forward="true" selection-start-line="247" selection-start-column="19" selection-end-line="247" selection-end-column="19" />
-                  <folding>
-                    <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="FixedAreaAction.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/FixedAreaAction.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="745">
-                  <caret line="147" column="4" lean-forward="false" selection-start-line="147" selection-start-column="4" selection-end-line="147" selection-end-column="4" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#2129#3615#0" expanded="true" />
-                    <element signature="e#2700#2711#0" expanded="true" />
-                    <element signature="e#3614#3615#0" expanded="true" />
-                    <element signature="e#5091#5092#0" expanded="true" />
-                    <element signature="e#5137#5138#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="CustomerServiceImpl.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../crm_management/src/main/java/cn/fanghao/crm/service/impl/CustomerServiceImpl.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="514">
-                  <caret line="36" column="64" lean-forward="true" selection-start-line="36" selection-start-column="64" selection-end-line="36" selection-end-column="64" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="CustomerService.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../crm_management/src/main/java/cn/fanghao/crm/service/CustomerService.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="693">
-                  <caret line="33" column="1" lean-forward="false" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="CustomerRepository.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../crm_management/src/main/java/cn/fanghao/crm/dao/CustomerRepository.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="525">
-                  <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pom.xml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="336">
-                  <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="FixedAreaAction.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/FixedAreaAction.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="381">
-                  <caret line="133" column="0" lean-forward="true" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#2129#3615#0" expanded="true" />
-                    <element signature="e#2700#2711#0" expanded="true" />
-                    <element signature="e#3614#3615#0" expanded="true" />
-                    <element signature="e#5091#5092#0" expanded="true" />
-                    <element signature="e#5137#5138#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../bos_management/pom.xml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="21">
-                  <caret line="21" column="3" lean-forward="false" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../crm_management/pom.xml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="483">
-                  <caret line="23" column="19" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="23" selection-end-column="19" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../crm_domain/pom.xml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="357">
-                  <caret line="17" column="10" lean-forward="false" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
         <option value="Interface" />
-        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -777,6 +176,7 @@
       <find>查询</find>
       <find>ping</find>
       <find>area</find>
+      <find>customerId</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -791,12 +191,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../bos_management/src/main/resources/config.properties" />
-        <option value="$MAVEN_REPOSITORY$/org/apache/struts/struts2-core/2.3.24/struts2-core-2.3.24-sources.jar!/org/apache/struts2/dispatcher/ng/filter/StrutsPrepareAndExecuteFilter.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/72a3eb3f-1175-4bcb-933f-5b389bc3e158/console.sql" />
-        <option value="$PROJECT_DIR$/../bos_management/src/main/resources/applicationContext.xml" />
-        <option value="dbsequence:/a6d5f6c4/a8b1bfde-dd3f-4fe7-bec1-34485eda9903/BOS.HIBERNATE_SEQUENCE" />
-        <option value="$PROJECT_DIR$/../bos_management/src/main/webapp/pages/base/standard.html" />
         <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/StandardServiceImpl.java" />
         <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/dao/base/StandardRepositoryTest.java" />
         <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/dao/base/StandardRepository.java" />
@@ -804,11 +198,8 @@
         <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/StandarAction.java" />
         <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/StandardService.java" />
         <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/impl/StandardServiceImpl.java" />
-        <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/domain/base/Courier.java" />
         <option value="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.2/commons-lang3-3.2-sources.jar!/org/apache/commons/lang3/StringUtils.java" />
         <option value="$PROJECT_DIR$/../bos_management/src/main/webapp/pages/base/courier.html" />
-        <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/CourierService.java" />
-        <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/impl/CourierServiceImpl.java" />
         <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/dao/base/CourierRepository.java" />
         <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/utils/PinYin4jUtils.java" />
         <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/AreaService.java" />
@@ -819,29 +210,38 @@
         <option value="$PROJECT_DIR$/../bos_management/src/main/webapp/pages/base/area.html" />
         <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/dao/base/FixedAreaRepository.java" />
         <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/dao/base/AreaRepository.java" />
-        <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/FixedAreaService.java" />
-        <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/impl/FixedAreaServiceImpl.java" />
         <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/domain/base/FixedArea.java" />
         <option value="$PROJECT_DIR$/../crm_management/src/main/resources/config.properties" />
         <option value="$PROJECT_DIR$/../crm_management/src/main/resources/applicationContext-dataSource.xml" />
         <option value="$PROJECT_DIR$/../crm_management/crm_management.iml" />
         <option value="$PROJECT_DIR$/../crm_domain/pom.xml" />
         <option value="$PROJECT_DIR$/../crm_management/pom.xml" />
-        <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/CourierAction.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../crm_management/src/main/java/cn/fanghao/crm/service/CustomerRepository.java" />
         <option value="$PROJECT_DIR$/../crm_management/src/test/java/cn/fanghao/crm/service/test/CustomerServiceTest.java" />
         <option value="$PROJECT_DIR$/../crm_management/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/../crm_management/src/main/resources/applicationContext.xml" />
         <option value="$PROJECT_DIR$/../crm_domain/src/main/java/cn/fanghao/crm/domain/Customer.java" />
-        <option value="$PROJECT_DIR$/../crm_management/src/main/resources/applicationContext-webService.xml" />
-        <option value="$PROJECT_DIR$/../bos_management/pom.xml" />
         <option value="$PROJECT_DIR$/../bos_management/bos_management.iml" />
         <option value="$PROJECT_DIR$/../crm_management/src/main/java/cn/fanghao/crm/dao/CustomerRepository.java" />
+        <option value="$PROJECT_DIR$/../crm_management/src/main/java/cn/fanghao/crm/service/impl/CustomerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../crm_management/src/main/resources/applicationContext-webService.xml" />
+        <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/CourierAction.java" />
+        <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/CourierService.java" />
+        <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/CourierServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/domain/base/Courier.java" />
+        <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/impl/CourierServiceImpl.java" />
         <option value="$PROJECT_DIR$/../crm_management/src/main/java/cn/fanghao/crm/service/CustomerService.java" />
+        <option value="$PROJECT_DIR$/../bos_management/pom.xml" />
+        <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/TakeTimeService.java" />
+        <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/TakeTimeAction.java" />
+        <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/TakeTimeService.java" />
+        <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/dao/base/TakeTimeRepository.java" />
+        <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/impl/TakeTimeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/FixedAreaService.java" />
+        <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/impl/FixedAreaServiceImpl.java" />
         <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/FixedAreaAction.java" />
         <option value="$PROJECT_DIR$/../bos_management/src/main/webapp/pages/base/fixed_area.html" />
-        <option value="$PROJECT_DIR$/../crm_management/src/main/java/cn/fanghao/crm/service/impl/CustomerServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -977,10 +377,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="23" />
-    <option name="width" value="1936" />
-    <option name="height" value="1065" />
+    <option name="x" value="-7" />
+    <option name="y" value="31" />
+    <option name="width" value="1918" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -990,17 +390,81 @@
             <id />
           </State>
           <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Internationalization</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Security</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>Application Server Specific Inspections</id>
+          </State>
+          <State>
+            <id>CDI(Contexts and Dependency Injection) issues</id>
+          </State>
+          <State>
+            <id>FreeMarker inspections</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Google App Engine</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>JSP Inspections</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
             <id>Java EE issues</id>
           </State>
           <State>
-            <id>Maven</id>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>RESTful Web Service</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring SecuritySpring</id>
+          </State>
+          <State>
+            <id>Spring Web FlowSpring</id>
+          </State>
+          <State>
+            <id>Spring Web ServicesSpring</id>
+          </State>
+          <State>
+            <id>Spring WebSocketSpring</id>
+          </State>
+          <State>
+            <id>Web Services</id>
+          </State>
+          <State>
+            <id>WebSocket issues</id>
           </State>
         </expanded-state>
-        <selected-state>
-          <State>
-            <id>ServletWithoutMappingInspection</id>
-          </State>
-        </selected-state>
       </profile-state>
     </entry>
   </component>
@@ -1022,21 +486,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common_parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bos_management" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1435,15 +886,108 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common_parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bos_management" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fanghao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common_parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bos_management" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fanghao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common_parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bos_management" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="SearchEverywhereHistoryKey" value="git&#9;ACTION&#9;Github.Share&#10;tomcat&#9;FILE&#9;jar://D:/develop/apache-maven-3.3.9-bin/repository/org/springframework/spring-context/4.1.7.RELEASE/spring-context-4.1.7.RELEASE.jar!/org/springframework/instrument/classloading/tomcat/TomcatLoadTimeWeaver.class" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Oracle" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -1455,7 +999,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/../crm_management/src/main/java/cn/fanghao/crm" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -1481,10 +1025,11 @@
       <recent name="D:\java_project\bos_management" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="cn.fanghao.crm.service.impl" />
       <recent name="cn.fanghao.bos.dao.base" />
       <recent name="cn.fanghao.bos.service.base.impl" />
+      <recent name="cn.fanghao.bos.service" />
       <recent name="cn.fanghao.bos.service.base" />
+      <recent name="cn.fanghao.crm.service.impl" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -2053,6 +1598,10 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -2073,7 +1622,8 @@
       <workItem from="1496411860411" duration="39255000" />
       <workItem from="1496537973895" duration="7697000" />
       <workItem from="1496557033226" duration="39301000" />
-      <workItem from="1496794966713" duration="9383000" />
+      <workItem from="1496794966713" duration="23500000" />
+      <workItem from="1496832883531" duration="10764000" />
     </task>
     <task id="LOCAL-00001" summary="2017年6月5日 18:45:28">
       <created>1496665944267</created>
@@ -2082,7 +1632,14 @@
       <option name="project" value="LOCAL" />
       <updated>1496665944267</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2017年6月7日 11:09:04">
+      <created>1496804963806</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1496804963806</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -2115,7 +1672,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135506000" />
+    <option name="totallyTimeSpent" value="160387000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2127,17 +1684,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="23" width="1936" height="1065" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="31" width="1918" height="1056" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24611974" sideWeight="0.5028694" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27908218" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28879312" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46638206" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23922414" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24919957" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23852721" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -2148,13 +1704,13 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.86499465" sideWeight="0.4876325" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45689654" sideWeight="0.4876325" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19316968" sideWeight="0.49069002" order="0" side_tool="false" content_ui="combo" x="1145" y="219" width="231" height="550" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10398707" sideWeight="0.48666668" order="0" side_tool="false" content_ui="combo" x="1145" y="219" width="231" height="550" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18196371" sideWeight="0.50930995" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14194237" sideWeight="0.5133333" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2171,34 +1727,35 @@
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24636059" sideWeight="0.5028694" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1589085" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24611974" sideWeight="0.5028694" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28903976" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24518201" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24942264" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23916534" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23922414" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24919957" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23852721" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3972431" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39641657" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3242059" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32222223" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43713215" sideWeight="0.4876325" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.9311348" sideWeight="0.4876325" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45603943" sideWeight="0.5058005" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27715355" sideWeight="0.49069002" order="0" side_tool="false" content_ui="combo" x="1145" y="219" width="231" height="550" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1945043" sideWeight="0.48666668" order="0" side_tool="false" content_ui="combo" x="1145" y="219" width="231" height="550" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18238993" sideWeight="0.50930995" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14194237" sideWeight="0.5133333" order="6" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -2209,195 +1766,62 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2017年6月5日 18:45:28" />
-    <option name="LAST_COMMIT_MESSAGE" value="2017年6月5日 18:45:28" />
+    <MESSAGE value="2017年6月7日 11:09:04" />
+    <option name="LAST_COMMIT_MESSAGE" value="2017年6月7日 11:09:04" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="common_parent" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="crm_management" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="common_parent" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="crm_domain" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="common_parent" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="common_parent" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="common_parent" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="bos_management" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/impl/CourierServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="38" column="47" lean-forward="true" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/webapp/js/ocupload/jquery.ocupload-1.1.2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/dao/base/StandardRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="13" column="75" lean-forward="false" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/utils/PinYin4jUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="306" column="49" lean-forward="true" selection-start-line="306" selection-start-column="49" selection-end-line="306" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/a6d5f6c4/a8b1bfde-dd3f-4fe7-bec1-34485eda9903/BOS.T_AREA">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/webapp/pages/base/courier.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="34" column="14" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="34" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/dao/base/CourierRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/impl/AreaServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="33" column="61" lean-forward="false" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/domain/base/Area.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/AreaService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="34" lean-forward="false" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.11.0.RELEASE/spring-data-commons-1.11.0.RELEASE-sources.jar!/org/springframework/data/repository/CrudRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="35" column="20" lean-forward="false" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/dao/base/AreaRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/dao/base/FixedAreaRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/BaseAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1539#1555#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/impl/FixedAreaServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/FixedAreaService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/a6d5f6c4/a8b1bfde-dd3f-4fe7-bec1-34485eda9903/BOS.T_FIXED_AREA">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/webapp/pages/base/area.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2856">
-          <caret line="175" column="55" lean-forward="false" selection-start-line="170" selection-start-column="20" selection-end-line="175" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/domain/base/FixedArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="44" column="25" lean-forward="false" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
-          <folding>
-            <element signature="e#2517#2518#0" expanded="false" />
-            <element signature="e#2539#2540#0" expanded="false" />
-            <element signature="e#2684#2685#0" expanded="false" />
-            <element signature="e#2706#2707#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/develop/Java/jdk1.7.0_72/jre/lib/jfxrt.jar!/com/sun/glass/ui/gtk/GtkMenuItemDelegate.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../crm_domain/crm_domain.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/c3p0/c3p0/0.9.1.2/c3p0-0.9.1.2-sources.jar!/com/mchange/v2/c3p0/ComboPooledDataSource.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
@@ -2434,14 +1858,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/CourierAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="36" column="15" lean-forward="false" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/AreaAction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="831">
@@ -2465,14 +1881,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="481">
           <caret line="63" column="73" lean-forward="false" selection-start-line="63" selection-start-column="73" selection-end-line="63" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../crm_management/src/main/resources/applicationContext-webService.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="28" column="72" lean-forward="false" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="72" />
           <folding />
         </state>
       </provider>
@@ -2512,7 +1920,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
           <caret line="36" column="55" lean-forward="false" selection-start-line="36" selection-start-column="55" selection-end-line="36" selection-end-column="55" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_management/bos_management.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="58" lean-forward="false" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c9a7c954-1c7b-474c-a970-73ab1a013cb4/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crm_management/src/main/java/cn/fanghao/crm/dao/CustomerRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="59" lean-forward="true" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/a6d5f6c4/ae3dc918-6dcc-4bc1-8cdc-3ac09178d7db/CRM.T_CUSTOMER">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/a6d5f6c4/a8b1bfde-dd3f-4fe7-bec1-34485eda9903/BOS.T_FIXED_AREA">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
@@ -2524,47 +1976,295 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../bos_management/bos_management.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="58" lean-forward="false" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../crm_domain/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="17" column="10" lean-forward="false" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-frontend-jaxrs/3.0.1/cxf-rt-frontend-jaxrs-3.0.1.jar!/schemas/jaxrs.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="54" column="39" lean-forward="false" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crm_management/src/main/java/cn/fanghao/crm/service/impl/CustomerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="41" column="22" lean-forward="true" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/a6d5f6c4/a8b1bfde-dd3f-4fe7-bec1-34485eda9903/BOS.T_TAKE_TIME">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-rs-client/3.0.1/cxf-rt-rs-client-3.0.1-sources.jar!/org/apache/cxf/jaxrs/client/WebClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="99" column="4" lean-forward="true" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="4" />
+          <folding>
+            <element signature="e#3405#3406#0" expanded="false" />
+            <element signature="e#3458#3459#0" expanded="false" />
+            <element signature="e#3502#3503#0" expanded="false" />
+            <element signature="e#3553#3554#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/Java/jdk1.7.0_72/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../crm_management/src/main/resources/applicationContext-webService.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="66" lean-forward="false" selection-start-line="27" selection-start-column="66" selection-end-line="27" selection-end-column="66" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/common_parent.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
+        <state relative-caret-position="441">
           <caret line="21" column="41" lean-forward="false" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5082">
+          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/CourierServiceImpl.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.11.0.RELEASE/spring-data-commons-1.11.0.RELEASE-sources.jar!/org/springframework/data/annotation/Transient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/domain/base/Courier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <element signature="e#1510#1521#0" expanded="false" />
+            <element signature="e#1575#1576#0" expanded="false" />
+            <element signature="e#1615#1616#0" expanded="false" />
+            <element signature="e#1642#1643#0" expanded="false" />
+            <element signature="e#1658#1659#0" expanded="false" />
+            <element signature="e#1692#1693#0" expanded="false" />
+            <element signature="e#1711#1712#0" expanded="false" />
+            <element signature="e#1745#1746#0" expanded="false" />
+            <element signature="e#1769#1770#0" expanded="false" />
+            <element signature="e#1818#1819#0" expanded="false" />
+            <element signature="e#1853#1854#0" expanded="false" />
+            <element signature="e#1881#1882#0" expanded="false" />
+            <element signature="e#1899#1900#0" expanded="false" />
+            <element signature="e#1936#1937#0" expanded="false" />
+            <element signature="e#1959#1960#0" expanded="false" />
+            <element signature="e#1992#1993#0" expanded="false" />
+            <element signature="e#2015#2016#0" expanded="false" />
+            <element signature="e#2062#2063#0" expanded="false" />
+            <element signature="e#2095#2096#0" expanded="false" />
+            <element signature="e#2128#2129#0" expanded="false" />
+            <element signature="e#2148#2149#0" expanded="false" />
+            <element signature="e#2192#2193#0" expanded="false" />
+            <element signature="e#2219#2220#0" expanded="false" />
+            <element signature="e#2251#2252#0" expanded="false" />
+            <element signature="e#2273#2274#0" expanded="false" />
+            <element signature="e#2318#2319#0" expanded="false" />
+            <element signature="e#2349#2350#0" expanded="false" />
+            <element signature="e#2377#2378#0" expanded="false" />
+            <element signature="e#2395#2396#0" expanded="false" />
+            <element signature="e#2432#2433#0" expanded="false" />
+            <element signature="e#2455#2456#0" expanded="false" />
+            <element signature="e#2486#2487#0" expanded="false" />
+            <element signature="e#2507#2508#0" expanded="false" />
+            <element signature="e#2550#2551#0" expanded="false" />
+            <element signature="e#2579#2580#0" expanded="false" />
+            <element signature="e#2614#2615#0" expanded="false" />
+            <element signature="e#2639#2640#0" expanded="false" />
+            <element signature="e#2690#2691#0" expanded="false" />
+            <element signature="e#2727#2728#0" expanded="false" />
+            <element signature="e#2761#2762#0" expanded="false" />
+            <element signature="e#2785#2786#0" expanded="false" />
+            <element signature="e#2834#2835#0" expanded="false" />
+            <element signature="e#2869#2870#0" expanded="false" />
+            <element signature="e#2937#2938#0" expanded="false" />
+            <element signature="e#2961#2962#0" expanded="false" />
+            <element signature="e#3018#3019#0" expanded="false" />
+            <element signature="e#3053#3054#0" expanded="false" />
+            <element signature="e#3087#3088#0" expanded="false" />
+            <element signature="e#3109#3110#0" expanded="false" />
+            <element signature="e#3156#3157#0" expanded="false" />
+            <element signature="e#3187#3188#0" expanded="false" />
+            <element signature="e#3214#3215#0" expanded="false" />
+            <element signature="e#3231#3232#0" expanded="false" />
+            <element signature="e#3266#3267#0" expanded="false" />
+            <element signature="e#3287#3288#0" expanded="false" />
+            <element signature="e#3321#3322#0" expanded="false" />
+            <element signature="e#3343#3344#0" expanded="false" />
+            <element signature="e#3390#3391#0" expanded="false" />
+            <element signature="e#3421#3422#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/dao/base/CourierRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/Java/jdk1.7.0_72/src.zip!/java/net/URLEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="200" column="22" lean-forward="false" selection-start-line="200" selection-start-column="22" selection-end-line="200" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/impl/CourierServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="55" column="44" lean-forward="false" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="44" />
+          <folding>
+            <element signature="e#1639#1929#0" expanded="false" />
+            <element signature="e#1928#1929#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../bos_management/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="21" column="3" lean-forward="false" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+        <state relative-caret-position="423">
+          <caret line="50" column="37" lean-forward="false" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c9a7c954-1c7b-474c-a970-73ab1a013cb4/console.sql">
+    <entry file="file://$PROJECT_DIR$/../crm_management/src/main/java/cn/fanghao/crm/service/CustomerService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="588">
+          <caret line="31" column="12" lean-forward="false" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="dbDummy://dbtable:/a6d5f6c4/ae3dc918-6dcc-4bc1-8cdc-3ac09178d7db/CRM.T_CUSTOMER">
+    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/CourierService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/CourierAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="178" column="55" lean-forward="false" selection-start-line="178" selection-start-column="55" selection-end-line="178" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/TakeTimeAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="31" column="58" lean-forward="true" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/TakeTimeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/dao/base/AreaRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/domain/base/TakeTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/dao/base/TakeTimeRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/impl/TakeTimeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="44" lean-forward="false" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/webapp/pages/base/fixed_area.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="235" column="27" lean-forward="true" selection-start-line="235" selection-start-column="27" selection-end-line="235" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#td#0;n#tr#1;n#table#0;n#form#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#td#2;n#tr#1;n#table#0;n#form#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/a6d5f6c4/a8b1bfde-dd3f-4fe7-bec1-34485eda9903/BOS.T_COURIER">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -2577,65 +2277,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../crm_management/src/main/java/cn/fanghao/crm/dao/CustomerRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+    <entry file="dbDummy://dbtable:/a6d5f6c4/a8b1bfde-dd3f-4fe7-bec1-34485eda9903/BOS.T_FIXEDAREA_COURIER">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../crm_management/src/main/java/cn/fanghao/crm/service/CustomerService.java">
+    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/impl/FixedAreaServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="33" column="1" lean-forward="false" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        <state relative-caret-position="42">
+          <caret line="14" column="64" lean-forward="true" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../crm_management/src/main/java/cn/fanghao/crm/service/impl/CustomerServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/FixedAreaService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="514">
-          <caret line="36" column="64" lean-forward="true" selection-start-line="36" selection-start-column="64" selection-end-line="36" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/webapp/pages/base/fixed_area.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="247" column="19" lean-forward="true" selection-start-line="247" selection-start-column="19" selection-end-line="247" selection-end-column="19" />
-          <folding>
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="252">
+          <caret line="15" column="58" lean-forward="false" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/FixedAreaAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="745">
-          <caret line="147" column="4" lean-forward="false" selection-start-line="147" selection-start-column="4" selection-end-line="147" selection-end-column="4" />
+        <state relative-caret-position="-105">
+          <caret line="25" column="34" lean-forward="true" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2129#3615#0" expanded="true" />
-            <element signature="e#2700#2711#0" expanded="true" />
-            <element signature="e#3614#3615#0" expanded="true" />
-            <element signature="e#5091#5092#0" expanded="true" />
-            <element signature="e#5137#5138#0" expanded="true" />
+            <element signature="e#5259#5260#0" expanded="true" />
+            <element signature="e#5305#5306#0" expanded="true" />
+            <element signature="e#6091#6092#0" expanded="true" />
+            <element signature="e#6133#6134#0" expanded="true" />
+            <element signature="e#6186#6187#0" expanded="true" />
+            <element signature="e#6230#6231#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2707,7 +2388,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: xml-resolver:xml-resolver:1.2</last-edited>
+          <last-edited>Maven: asm:asm-tree:3.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

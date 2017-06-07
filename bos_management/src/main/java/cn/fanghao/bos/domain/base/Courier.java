@@ -2,6 +2,7 @@ package cn.fanghao.bos.domain.base;
 
 import org.apache.struts2.json.annotations.JSON;
 
+
 import java.util.HashSet;
 import java.util.Set;
 
@@ -13,6 +14,7 @@ import javax.persistence.JoinColumn;
 import javax.persistence.ManyToMany;
 import javax.persistence.ManyToOne;
 import javax.persistence.Table;
+import javax.persistence.Transient;
 
 /**
  * @description:快递员
@@ -56,6 +58,12 @@ public class Courier {
 
 	@ManyToMany(mappedBy = "couriers")
 	private Set<FixedArea> fixedAreas = new HashSet<FixedArea>();
+
+	@Transient
+	//防止被生成数据表
+	public String getInfo() {
+		return name + "(" + company + ")";
+	}
 
 	public Integer getId() {
 		return id;

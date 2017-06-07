@@ -24,7 +24,8 @@
 		http://cxf.apache.org/jaxrs
 		http://cxf.apache.org/schemas/jaxrs.xsd ">
 
-	<jaxrs:server id="customerService" address="/customerService">
+
+	<jaxrs:server id="customerService" address="/customerService" >
 		<jaxrs:serviceBeans>
 			<bean class="cn.fanghao.crm.service.impl.CustomerServiceImpl" />
 		</jaxrs:serviceBeans>

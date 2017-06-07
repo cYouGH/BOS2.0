@@ -36,10 +36,10 @@ public class CustomerServiceImpl implements CustomerService {
         customerRepository.clearFixedAreaId(fixedAreaId);
 //        System.out.println(fixedAreaId+"     "+customerIdStr);
 
-        // 切割字符串 1,2,3
         if (StringUtils.isBlank(customerIdStr)) {
             return;
         }
+        // 切割字符串 1,2,3
         String[] customerIdArray = customerIdStr.split(",");
         for (String idStr : customerIdArray) {
             Integer id = Integer.parseInt(idStr);
