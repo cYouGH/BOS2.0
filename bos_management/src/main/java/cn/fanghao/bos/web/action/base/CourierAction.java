@@ -169,6 +169,8 @@ public class CourierAction extends ActionSupport implements ModelDriven<Courier>
         //调用业务层，批量作废
         courierService.delBatch(idArray);
 
+
+
         return SUCCESS;
     }
 

@@ -6,37 +6,148 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96ba609c-9c03-49a4-b6e4-6588cadb8c21" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/dao/base/TakeTimeRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/TakeTimeService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/impl/TakeTimeServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/TakeTimeAction.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/target/classes/cn/fanghao/bos/domain/base/Courier.class" afterPath="$PROJECT_DIR$/../bos_management/target/classes/cn/fanghao/bos/domain/base/Courier.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/target/classes/cn/fanghao/bos/service/base/CourierService.class" afterPath="$PROJECT_DIR$/../bos_management/target/classes/cn/fanghao/bos/service/base/CourierService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/target/classes/cn/fanghao/bos/service/base/impl/CourierServiceImpl.class" afterPath="$PROJECT_DIR$/../bos_management/target/classes/cn/fanghao/bos/service/base/impl/CourierServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/target/classes/cn/fanghao/bos/web/action/base/CourierAction.class" afterPath="$PROJECT_DIR$/../bos_management/target/classes/cn/fanghao/bos/web/action/base/CourierAction.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/target/classes/cn/fanghao/bos/web/action/base/FixedAreaAction$1.class" afterPath="$PROJECT_DIR$/../bos_management/target/classes/cn/fanghao/bos/web/action/base/FixedAreaAction$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/target/classes/cn/fanghao/bos/web/action/base/FixedAreaAction.class" afterPath="$PROJECT_DIR$/../bos_management/target/classes/cn/fanghao/bos/web/action/base/FixedAreaAction.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/pom.xml" afterPath="$PROJECT_DIR$/../bos_management/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/domain/base/Courier.java" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/domain/base/Courier.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/CourierService.java" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/CourierService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/FixedAreaService.java" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/FixedAreaService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/impl/CourierServiceImpl.java" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/impl/CourierServiceImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/impl/FixedAreaServiceImpl.java" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/impl/FixedAreaServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/WEB-INF/lib/taobao-sdk-java-auto_1455552377940-20160607.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/WEB-INF/template/batchOrderModel.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/drop-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/fail_person.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/fresh-to-stomach_in.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/icon/clock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/icon/fail_person.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/icon/line.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/icon/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/icon/ok.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/icon/partline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/icon/suyun/contact.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/icon/suyun/erweima.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/icon/suyun/gotop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/icon/suyun/icon1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/icon/suyun/icon2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/icon/suyun/icon3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/icon/suyun/icon4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/icon/suyun/ordercon01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/icon/suyun/ordercon02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/icon/suyun/ordercon03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/icon/suyun/photo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/icon/suyun/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/icon/suyun/right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/icon/suyun/sign01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/icon/suyun/sign02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/icon/suyun/sign03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/icon/suyun/signbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/icon/suyun/signbg02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/icon/suyun/signbg03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/icon/xlsLogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/icon/yanz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/pro.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/show/activity01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/show/activity02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/show/activity03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/show/banner_sc.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/show/cuxiaobg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/show/homebg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/show/photo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/show/suyun/banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/show/suyun/homebanner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/show/suyun/homeshow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/show/suyun/loginbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/show/suyun/newsbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/show/suyun/promotion1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/show/suyun/promotion2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/show/suyun/promotion3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/show/suyun/promotion4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/show/suyun/tese1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/show/suyun/tese2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/show/suyun/tese3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/show/suyun/tese4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/show/tui01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/show/tui02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/images/show/tui03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/bos_fore.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/java/cn/fanghao/bos/utils/AliCodeUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/resources/applicationContext.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/resources/config.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/resources/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/angulardemo/1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/angulardemo/2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/angulardemo/3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/angulardemo/4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/angulardemo/5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/angulardemo/5_1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/angulardemo/5_2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/angulardemo/5_3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/css/bootstrap/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/css/bootstrap/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/css/bootstrap/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/css/bootstrap/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/css/city-picker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/css/fail.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/css/nav.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/css/promotion_detail.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/css/public.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/css/styleexpress.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/css/styleindex.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/css/styleloginsign.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/css/stylemyhome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/css/styleorder.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/css/stylesearch.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/css/styleuserinfo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/data/promotion1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/data/promotion2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/express_manage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/js/angular-file-upload.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/js/angular-route.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/js/angular-route.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/js/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/js/angular.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/js/console-sham.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/js/html5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/js/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/js/self/addressadd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/js/self/city-picker.data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/js/self/city-picker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/js/self/controllers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/js/self/effect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/js/self/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/js/self/page.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/js/self/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/loadfail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/main.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/myhome.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/order.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/promotion.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/promotion_detail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/signup-success.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/signup.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../bos_fore/src/main/webapp/userinfo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/target/classes/cn/fanghao/bos/service/base/FixedAreaService.class" afterPath="$PROJECT_DIR$/../bos_management/target/classes/cn/fanghao/bos/service/base/FixedAreaService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/target/classes/cn/fanghao/bos/service/base/impl/FixedAreaServiceImpl.class" afterPath="$PROJECT_DIR$/../bos_management/target/classes/cn/fanghao/bos/service/base/impl/FixedAreaServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/bos_management.iml" afterPath="$PROJECT_DIR$/../bos_management/bos_management.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/CourierAction.java" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/CourierAction.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/FixedAreaAction.java" afterPath="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/FixedAreaAction.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/src/main/webapp/pages/base/fixed_area.html" afterPath="$PROJECT_DIR$/../bos_management/src/main/webapp/pages/base/fixed_area.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/../bos_management/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/bos_management_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/bos_management_war.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/bos_management_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/bos_management_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bos_management/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/../bos_management/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../crm_management/src/main/java/cn/fanghao/crm/service/impl/CustomerServiceImpl.java" afterPath="$PROJECT_DIR$/../crm_management/src/main/java/cn/fanghao/crm/service/impl/CustomerServiceImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../crm_management/src/main/resources/applicationContext-webService.xml" afterPath="$PROJECT_DIR$/../crm_management/src/main/resources/applicationContext-webService.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../bos_management/target/" />
     <ignored path="$PROJECT_DIR$/../crm_domain/target/" />
     <ignored path="$PROJECT_DIR$/../crm_management/target/" />
+    <ignored path="$PROJECT_DIR$/../bos_fore/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -156,7 +267,20 @@
     <favorites_list name="common_parent" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="AliCodeUtils.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../bos_fore/src/main/java/cn/fanghao/bos/utils/AliCodeUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" column="75" lean-forward="true" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -165,6 +289,7 @@
         <option value="JUnit4 Test Class" />
         <option value="Class" />
         <option value="Interface" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -191,14 +316,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/StandardServiceImpl.java" />
-        <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/dao/base/StandardRepositoryTest.java" />
-        <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/dao/base/StandardRepository.java" />
-        <option value="$PROJECT_DIR$/../bos_management/src/test/java/cn.fanghao.bos.dao.base/StandardRepositoryTest.java" />
-        <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/StandarAction.java" />
-        <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/StandardService.java" />
-        <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/impl/StandardServiceImpl.java" />
-        <option value="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.2/commons-lang3-3.2-sources.jar!/org/apache/commons/lang3/StringUtils.java" />
         <option value="$PROJECT_DIR$/../bos_management/src/main/webapp/pages/base/courier.html" />
         <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/dao/base/CourierRepository.java" />
         <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/utils/PinYin4jUtils.java" />
@@ -226,7 +343,6 @@
         <option value="$PROJECT_DIR$/../crm_management/src/main/java/cn/fanghao/crm/dao/CustomerRepository.java" />
         <option value="$PROJECT_DIR$/../crm_management/src/main/java/cn/fanghao/crm/service/impl/CustomerServiceImpl.java" />
         <option value="$PROJECT_DIR$/../crm_management/src/main/resources/applicationContext-webService.xml" />
-        <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/CourierAction.java" />
         <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/CourierService.java" />
         <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/CourierServiceImpl.java" />
         <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/domain/base/Courier.java" />
@@ -242,11 +358,26 @@
         <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base/impl/FixedAreaServiceImpl.java" />
         <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/FixedAreaAction.java" />
         <option value="$PROJECT_DIR$/../bos_management/src/main/webapp/pages/base/fixed_area.html" />
+        <option value="$PROJECT_DIR$/../bos_fore/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/../bos_fore/pom.xml" />
+        <option value="$PROJECT_DIR$/../bos_fore/src/main/webapp/angulardemo/1.html" />
+        <option value="$PROJECT_DIR$/../bos_fore/src/main/webapp/angulardemo/2.html" />
+        <option value="$PROJECT_DIR$/../bos_fore/src/main/webapp/angulardemo/3.html" />
+        <option value="$PROJECT_DIR$/../bos_fore/src/main/webapp/angulardemo/4.html" />
+        <option value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/CourierAction.java" />
+        <option value="$PROJECT_DIR$/../bos_fore/src/main/webapp/signup.html" />
+        <option value="$PROJECT_DIR$/../bos_fore/src/main/java/cn/fanghao/bos/utils/AliCodeUtils.java" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -338,7 +469,7 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="bos_management" />
+          <option name="myItemId" value="bos_fore" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
       </PATH>
@@ -348,123 +479,38 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="bos_management" />
+          <option name="myItemId" value="bos_fore" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="Plugins" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="bos_management" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Plugins" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="tomcat" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginNode" />
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
         </PATH_ELEMENT>
       </PATH>
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="y" value="31" />
-    <option name="width" value="1918" />
-    <option name="height" value="1056" />
+    <option name="x" value="-8" />
+    <option name="y" value="23" />
+    <option name="width" value="1936" />
+    <option name="height" value="1065" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
         <expanded-state>
           <State>
-            <id />
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Correctness</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Internationalization</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Security</id>
-          </State>
-          <State>
-            <id>Android Lint for Kotlin</id>
-          </State>
-          <State>
-            <id>Application Server Specific Inspections</id>
-          </State>
-          <State>
-            <id>CDI(Contexts and Dependency Injection) issues</id>
-          </State>
-          <State>
-            <id>FreeMarker inspections</id>
-          </State>
-          <State>
             <id>GeneralJavaScript</id>
-          </State>
-          <State>
-            <id>Google App Engine</id>
-          </State>
-          <State>
-            <id>Google Web Toolkit issues</id>
-          </State>
-          <State>
-            <id>HTML</id>
-          </State>
-          <State>
-            <id>Internationalization issues</id>
-          </State>
-          <State>
-            <id>Internationalization issuesJava</id>
-          </State>
-          <State>
-            <id>JSP Inspections</id>
-          </State>
-          <State>
-            <id>Java</id>
-          </State>
-          <State>
-            <id>Java EE issues</id>
           </State>
           <State>
             <id>JavaScript</id>
           </State>
-          <State>
-            <id>RESTful Web Service</id>
-          </State>
-          <State>
-            <id>Spring</id>
-          </State>
-          <State>
-            <id>Spring SecuritySpring</id>
-          </State>
-          <State>
-            <id>Spring Web FlowSpring</id>
-          </State>
-          <State>
-            <id>Spring Web ServicesSpring</id>
-          </State>
-          <State>
-            <id>Spring WebSocketSpring</id>
-          </State>
-          <State>
-            <id>Web Services</id>
-          </State>
-          <State>
-            <id>WebSocket issues</id>
-          </State>
         </expanded-state>
+        <selected-state>
+          <State>
+            <id>JSJQueryEfficiency</id>
+          </State>
+        </selected-state>
       </profile-state>
     </entry>
   </component>
@@ -487,6 +533,20 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common_parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bos_management" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -496,7 +556,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="crm_management" />
+              <option name="myItemId" value="crm_domain" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -506,7 +566,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="crm_management" />
+              <option name="myItemId" value="crm_domain" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -520,33 +580,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="crm_management" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common_parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="crm_management" />
+              <option name="myItemId" value="crm_domain" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -557,10 +591,6 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -568,7 +598,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="crm_management" />
+              <option name="myItemId" value="crm_domain" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -596,93 +626,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common_parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="crm_management" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fanghao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="crm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="impl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common_parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="crm_management" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fanghao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="crm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common_parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common_parent" />
+              <option name="myItemId" value="domain" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -707,84 +651,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common_parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bos_management" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common_parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bos_management" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common_parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bos_management" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="base" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -892,39 +758,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bos_management" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fanghao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="base" />
+              <option name="myItemId" value="bos_fore" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -934,7 +768,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bos_management" />
+              <option name="myItemId" value="bos_fore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common_parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bos_fore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common_parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bos_fore" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -961,24 +835,6 @@
               <option name="myItemId" value="bos" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common_parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bos_management" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -987,7 +843,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="SearchEverywhereHistoryKey" value="git&#9;ACTION&#9;Github.Share&#10;tomcat&#9;FILE&#9;jar://D:/develop/apache-maven-3.3.9-bin/repository/org/springframework/spring-context/4.1.7.RELEASE/spring-context-4.1.7.RELEASE.jar!/org/springframework/instrument/classloading/tomcat/TomcatLoadTimeWeaver.class" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Oracle" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -995,11 +851,13 @@
     <property name="project.structure.side.proportion" value="0.2956841" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bos_fore/src/main/webapp/WEB-INF/lib" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/service/base" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../bos_fore/src/main/webapp/js/angular.min.js" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -1018,11 +876,11 @@
       <recent name="D:\java_project\bos_management\src\test\java\cn.fanghao.bos.dao.base" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\java_project\crm_management\src\main\resources" />
-      <recent name="D:\java_project\crm_management\src\main" />
-      <recent name="D:\java_project\bos_management\src\main\webapp\js\ocupload" />
-      <recent name="D:\java_project\bos_management\src\test\resources" />
-      <recent name="D:\java_project\bos_management" />
+      <recent name="D:\java_project\bos_fore\src\main\webapp\WEB-INF\lib" />
+      <recent name="D:\java_project\bos_fore\src\main\java\cn\fanghao\bos\utils" />
+      <recent name="D:\java_project\bos_fore\src\main\webapp\angulardemo" />
+      <recent name="D:\java_project\bos_fore\src\main\webapp" />
+      <recent name="D:\java_project\bos_fore\src\main\resources" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="cn.fanghao.bos.dao.base" />
@@ -1167,6 +1025,17 @@
       </option>
       <envs />
       <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -1623,7 +1492,9 @@
       <workItem from="1496537973895" duration="7697000" />
       <workItem from="1496557033226" duration="39301000" />
       <workItem from="1496794966713" duration="23500000" />
-      <workItem from="1496832883531" duration="10764000" />
+      <workItem from="1496832883531" duration="12960000" />
+      <workItem from="1496848137322" duration="606000" />
+      <workItem from="1496848804442" duration="21740000" />
     </task>
     <task id="LOCAL-00001" summary="2017年6月5日 18:45:28">
       <created>1496665944267</created>
@@ -1639,7 +1510,14 @@
       <option name="project" value="LOCAL" />
       <updated>1496804963806</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2017年6月7日 22:00:50">
+      <created>1496844064908</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1496844064908</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1672,7 +1550,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="160387000" />
+    <option name="totallyTimeSpent" value="184929000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1684,16 +1562,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="31" width="1918" height="1056" extended-state="0" />
+    <frame x="-8" y="23" width="1936" height="1065" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24611974" sideWeight="0.5028694" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28879312" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2886873" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23922414" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23906083" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24919957" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23852721" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1704,10 +1583,10 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45689654" sideWeight="0.4876325" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47642857" sideWeight="0.4876325" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10398707" sideWeight="0.48666668" order="0" side_tool="false" content_ui="combo" x="1145" y="219" width="231" height="550" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.226254" sideWeight="0.48666668" order="0" side_tool="false" content_ui="combo" x="1145" y="219" width="231" height="550" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14194237" sideWeight="0.5133333" order="6" side_tool="true" content_ui="tabs" />
@@ -1715,7 +1594,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32222223" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32211" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45603943" sideWeight="0.5058005" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -1767,7 +1646,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2017年6月5日 18:45:28" />
     <MESSAGE value="2017年6月7日 11:09:04" />
-    <option name="LAST_COMMIT_MESSAGE" value="2017年6月7日 11:09:04" />
+    <MESSAGE value="2017年6月7日 22:00:50" />
+    <option name="LAST_COMMIT_MESSAGE" value="2017年6月7日 22:00:50" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1822,175 +1702,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/c3p0/c3p0/0.9.1.2/c3p0-0.9.1.2-sources.jar!/com/mchange/v2/c3p0/ComboPooledDataSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="46" column="33" lean-forward="true" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../crm_management/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../crm_domain/target/classes/cn/fanghao/crm/domain/Customer.class" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a8b1bfde-dd3f-4fe7-bec1-34485eda9903/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ae3dc918-6dcc-4bc1-8cdc-3ac09178d7db/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../crm_management/src/main/resources/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/AreaAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="831">
-          <caret line="164" column="33" lean-forward="true" selection-start-line="164" selection-start-column="33" selection-end-line="164" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#4903#4914#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../crm_management/src/test/java/cn/fanghao/crm/service/test/CustomerServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="30" column="33" lean-forward="true" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../crm_management/src/main/resources/applicationContext-dataSource.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="63" column="73" lean-forward="false" selection-start-line="63" selection-start-column="73" selection-end-line="63" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../crm_management/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="34" column="58" lean-forward="false" selection-start-line="34" selection-start-column="58" selection-end-line="34" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../crm_management/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../crm_domain/src/main/java/cn/fanghao/crm/domain/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/web-forms.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="358" column="16" lean-forward="false" selection-start-line="358" selection-start-column="16" selection-end-line="358" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../crm_management/crm_management.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="36" column="55" lean-forward="false" selection-start-line="36" selection-start-column="55" selection-end-line="36" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../bos_management/bos_management.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="58" lean-forward="false" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c9a7c954-1c7b-474c-a970-73ab1a013cb4/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../crm_management/src/main/java/cn/fanghao/crm/dao/CustomerRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="59" lean-forward="true" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/a6d5f6c4/ae3dc918-6dcc-4bc1-8cdc-3ac09178d7db/CRM.T_CUSTOMER">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/a6d5f6c4/a8b1bfde-dd3f-4fe7-bec1-34485eda9903/BOS.T_FIXED_AREA">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../crm_management/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="19" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="23" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../crm_domain/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="10" lean-forward="false" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/cxf/cxf-rt-frontend-jaxrs/3.0.1/cxf-rt-frontend-jaxrs-3.0.1.jar!/schemas/jaxrs.xsd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="54" column="39" lean-forward="false" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../crm_management/src/main/java/cn/fanghao/crm/service/impl/CustomerServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="549">
@@ -2017,12 +1728,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="609">
           <caret line="99" column="4" lean-forward="true" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="4" />
-          <folding>
-            <element signature="e#3405#3406#0" expanded="false" />
-            <element signature="e#3458#3459#0" expanded="false" />
-            <element signature="e#3502#3503#0" expanded="false" />
-            <element signature="e#3553#3554#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2030,7 +1735,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2046,15 +1750,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="21" column="41" lean-forward="false" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5082">
-          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2063,7 +1758,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2071,67 +1765,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-150">
           <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-          <folding>
-            <element signature="e#1510#1521#0" expanded="false" />
-            <element signature="e#1575#1576#0" expanded="false" />
-            <element signature="e#1615#1616#0" expanded="false" />
-            <element signature="e#1642#1643#0" expanded="false" />
-            <element signature="e#1658#1659#0" expanded="false" />
-            <element signature="e#1692#1693#0" expanded="false" />
-            <element signature="e#1711#1712#0" expanded="false" />
-            <element signature="e#1745#1746#0" expanded="false" />
-            <element signature="e#1769#1770#0" expanded="false" />
-            <element signature="e#1818#1819#0" expanded="false" />
-            <element signature="e#1853#1854#0" expanded="false" />
-            <element signature="e#1881#1882#0" expanded="false" />
-            <element signature="e#1899#1900#0" expanded="false" />
-            <element signature="e#1936#1937#0" expanded="false" />
-            <element signature="e#1959#1960#0" expanded="false" />
-            <element signature="e#1992#1993#0" expanded="false" />
-            <element signature="e#2015#2016#0" expanded="false" />
-            <element signature="e#2062#2063#0" expanded="false" />
-            <element signature="e#2095#2096#0" expanded="false" />
-            <element signature="e#2128#2129#0" expanded="false" />
-            <element signature="e#2148#2149#0" expanded="false" />
-            <element signature="e#2192#2193#0" expanded="false" />
-            <element signature="e#2219#2220#0" expanded="false" />
-            <element signature="e#2251#2252#0" expanded="false" />
-            <element signature="e#2273#2274#0" expanded="false" />
-            <element signature="e#2318#2319#0" expanded="false" />
-            <element signature="e#2349#2350#0" expanded="false" />
-            <element signature="e#2377#2378#0" expanded="false" />
-            <element signature="e#2395#2396#0" expanded="false" />
-            <element signature="e#2432#2433#0" expanded="false" />
-            <element signature="e#2455#2456#0" expanded="false" />
-            <element signature="e#2486#2487#0" expanded="false" />
-            <element signature="e#2507#2508#0" expanded="false" />
-            <element signature="e#2550#2551#0" expanded="false" />
-            <element signature="e#2579#2580#0" expanded="false" />
-            <element signature="e#2614#2615#0" expanded="false" />
-            <element signature="e#2639#2640#0" expanded="false" />
-            <element signature="e#2690#2691#0" expanded="false" />
-            <element signature="e#2727#2728#0" expanded="false" />
-            <element signature="e#2761#2762#0" expanded="false" />
-            <element signature="e#2785#2786#0" expanded="false" />
-            <element signature="e#2834#2835#0" expanded="false" />
-            <element signature="e#2869#2870#0" expanded="false" />
-            <element signature="e#2937#2938#0" expanded="false" />
-            <element signature="e#2961#2962#0" expanded="false" />
-            <element signature="e#3018#3019#0" expanded="false" />
-            <element signature="e#3053#3054#0" expanded="false" />
-            <element signature="e#3087#3088#0" expanded="false" />
-            <element signature="e#3109#3110#0" expanded="false" />
-            <element signature="e#3156#3157#0" expanded="false" />
-            <element signature="e#3187#3188#0" expanded="false" />
-            <element signature="e#3214#3215#0" expanded="false" />
-            <element signature="e#3231#3232#0" expanded="false" />
-            <element signature="e#3266#3267#0" expanded="false" />
-            <element signature="e#3287#3288#0" expanded="false" />
-            <element signature="e#3321#3322#0" expanded="false" />
-            <element signature="e#3343#3344#0" expanded="false" />
-            <element signature="e#3390#3391#0" expanded="false" />
-            <element signature="e#3421#3422#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2139,9 +1772,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2149,7 +1779,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
           <caret line="200" column="22" lean-forward="false" selection-start-line="200" selection-start-column="22" selection-end-line="200" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2157,18 +1786,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="55" column="44" lean-forward="false" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="44" />
-          <folding>
-            <element signature="e#1639#1929#0" expanded="false" />
-            <element signature="e#1928#1929#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../bos_management/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="50" column="37" lean-forward="false" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2176,7 +1793,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="588">
           <caret line="31" column="12" lean-forward="false" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2184,15 +1800,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/CourierAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="178" column="55" lean-forward="false" selection-start-line="178" selection-start-column="55" selection-end-line="178" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2200,9 +1807,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="603">
           <caret line="31" column="58" lean-forward="true" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2210,9 +1814,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2220,7 +1821,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2228,7 +1828,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2236,9 +1835,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2246,9 +1842,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="24" column="44" lean-forward="false" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2256,11 +1849,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="477">
           <caret line="235" column="27" lean-forward="true" selection-start-line="235" selection-start-column="27" selection-end-line="235" selection-end-column="27" />
-          <folding>
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#select#0;n#td#0;n#tr#1;n#table#0;n#form#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#select#0;n#td#2;n#tr#1;n#table#0;n#form#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2268,7 +1856,6 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
@@ -2281,7 +1868,6 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
@@ -2294,7 +1880,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="14" column="64" lean-forward="true" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2302,7 +1887,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="15" column="58" lean-forward="false" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2321,13 +1905,222 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_fore/bos_fore.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-522">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_fore/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_fore/src/main/webapp/css/nav.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_fore/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_fore/src/main/webapp/loadfail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_fore/src/main/webapp/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="37" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_fore/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-123">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_fore/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/web-forms.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="248" column="22" lean-forward="false" selection-start-line="248" selection-start-column="22" selection-end-line="248" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_fore/src/main/webapp/js/angular-route.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_fore/src/main/webapp/angulardemo/3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="56" selection-end-line="17" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_fore/src/main/webapp/angulardemo/4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/Java/jdk1.7.0_72/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3447">
+          <caret line="166" column="31" lean-forward="true" selection-start-line="166" selection-start-column="31" selection-end-line="166" selection-end-column="31" />
+          <folding>
+            <element signature="e#4846#4847#0" expanded="false" />
+            <element signature="e#4886#4887#0" expanded="false" />
+            <element signature="e#5859#5860#0" expanded="false" />
+            <element signature="e#5922#5923#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_management/src/main/java/cn/fanghao/bos/web/action/base/CourierAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="167" column="11" lean-forward="false" selection-start-line="167" selection-start-column="11" selection-end-line="167" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_fore/src/main/webapp/angulardemo/5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_management/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_fore/src/main/webapp/angulardemo/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_fore/src/main/webapp/angulardemo/2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_fore/src/main/webapp/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_fore/src/main/webapp/js/angular.min.js.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7056">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_fore/src/main/webapp/js/angular.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="141" column="222" lean-forward="false" selection-start-line="141" selection-start-column="222" selection-end-line="141" selection-end-column="222" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="1201" column="0" lean-forward="false" selection-start-line="1201" selection-start-column="0" selection-end-line="1201" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_fore/src/main/webapp/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="143" column="31" lean-forward="false" selection-start-line="143" selection-start-column="31" selection-end-line="143" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bos_fore/src/main/java/cn/fanghao/bos/utils/AliCodeUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="75" lean-forward="true" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>bos_management:war</last-edited>
+          <last-edited>bos_fore:war exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -2364,7 +2157,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.7</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -2376,11 +2169,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring|bos_management</last-edited>
+          <last-edited>bos_fore</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2956841" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -2388,7 +2182,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: asm:asm-tree:3.3</last-edited>
+          <last-edited>lib</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

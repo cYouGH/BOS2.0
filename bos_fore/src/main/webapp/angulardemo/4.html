@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AngularJS集合数据的遍历显示</title>
+    <script type="text/javascript" src="../js/angular.min.js"></script>
+
+</head>
+
+<body ng-app="myapp" ng-controller="myctrl">
+    <table width="50%" border="1" align="center">
+        <tr>
+            <th>序号</th>
+            <th>商品编号</th>
+            <th>商品名称</th>
+            <th>价格</th>
+        </tr>
+        <tr ng-repeat="product in products">
+            <td>{{$index + 1}}</td>
+            <td>{{product.id}}</td>
+            <td>{{product.name}}</td>
+            <td>{{product.price}}</td>
+        </tr>
+    </table>
+</body>
+        
+<script type="text/javascript">
+    var myapp = angular.module("myapp",[]);
+    myapp.controller("myctrl",["$scope",function ($scope) {
+        $scope.products = [
+            {
+                id : 1001,
+                name : '华为酥油层',
+                price : 4000
+            },
+            {
+                id : 10012,
+                name : '三星爆炸7',
+                price : 6000
+            }
+        ];
+    }])
+</script>
+</html>
