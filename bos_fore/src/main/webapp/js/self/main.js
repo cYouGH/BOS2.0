@@ -19,19 +19,19 @@ $(function () {
 
     $('#reset').click(function () {
         $citypicker3.citypicker('reset');
-       
-        
+
+
     });
     $('#reset2').click(function () {
         $citypicker2.citypicker('reset');
-       
-        
+
+
     });
-    
+
 
     $('#destroy').click(function () {
         $citypicker3.citypicker('destroy');
     });
-    
+
 
 });

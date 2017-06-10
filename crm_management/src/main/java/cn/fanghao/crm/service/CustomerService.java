@@ -31,4 +31,8 @@ public interface CustomerService {
             @QueryParam("customerIdStr") String customerIdStr,
             @QueryParam("fixedAreaId") String fixedAreaId);
 
+    @Path("/customer")
+    @POST
+    @Consumes({"application/xml","application/json"})
+    public void regist(Customer customer);
 }

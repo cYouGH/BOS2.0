@@ -36,7 +36,7 @@ public class CustomerServiceImpl implements CustomerService {
         customerRepository.clearFixedAreaId(fixedAreaId);
 //        System.out.println(fixedAreaId+"     "+customerIdStr);
 
-        if (StringUtils.isBlank(customerIdStr)) {
+        if (StringUtils.isBlank(customerIdStr) || customerIdStr.equals("null")) {
             return;
         }
         // 切割字符串 1,2,3
@@ -45,5 +45,10 @@ public class CustomerServiceImpl implements CustomerService {
             Integer id = Integer.parseInt(idStr);
             customerRepository.updateFixedAreaId(fixedAreaId, id);
         }
+    }
+
+    @Override
+    public void regist(Customer customer) {
+        customerRepository.save(customer);
     }
 }

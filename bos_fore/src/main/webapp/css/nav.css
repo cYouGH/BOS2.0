@@ -1,80 +1,85 @@
 
-
 table {
-	font-size: 12px;
+    font-size: 12px;
 }
 
 .mainnav .navbar-brand {
-	padding: 11px 15px;
+    padding: 11px 15px;
 }
 
 .mainnav .navbar-default {
-	background: #fff;
+    background: #fff;
     margin-bottom: 0px;
 }
 
-.mainnav .navbar-nav>li>a {
-	padding: 25px;
+.mainnav .navbar-nav > li > a {
+    padding: 25px;
 }
 
-.navbar-default .navbar-nav>.active>a,
-.navbar-default .navbar-nav>.active>a:focus,
-.navbar-default .navbar-nav>.active>a:hover {
-	color: #fff;
-	background-color: #df3033;
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav > .active > a:hover {
+    color: #fff;
+    background-color: #df3033;
 }
-.navbar-collapse ul li a{font-size:16px;font-family: "微软雅黑";}
+
+.navbar-collapse ul li a {
+    font-size: 16px;
+    font-family: "微软雅黑";
+}
+
 footer {
-	font-family: '宋体';
-	font-size: 14px;
-	color: #666;
+    font-family: '宋体';
+    font-size: 14px;
+    color: #666;
 }
 
 .footnav {
-	background: #F2F2F2;
-	padding: 30px 0 10px 0;
+    background: #F2F2F2;
+    padding: 30px 0 10px 0;
 }
 
 .copyright {
-	font-size: 12px;
-	text-align: center;
-	background: #666;
-	padding: 30px 0;
-	color: #fff;
+    font-size: 12px;
+    text-align: center;
+    background: #666;
+    padding: 30px 0;
+    color: #fff;
 }
 
 footer .list-inline {
-	float: left;
-	width: 20%;
+    float: left;
+    width: 20%;
 }
 
 .inner {
-	padding-top: 15px;
+    padding-top: 15px;
 }
 
 .inner li {
-	font-size: 12px;
-	color: #999999;
-	line-height: 26px;
+    font-size: 12px;
+    color: #999999;
+    line-height: 26px;
 }
 
 .contact {
-	float: left
+    float: left
 }
 
 .saoma {
-	float: right
+    float: right
 }
 
 .tel,
 .bigtel {
-	color: #df3033
+    color: #df3033
 }
 
 .tel {
-	font-size: 30px;
-	font-weight: bold;
+    font-size: 30px;
+    font-weight: bold;
 }
+
 /*返回顶部按钮样式*/
 .cd-top {
     display: inline-block;
