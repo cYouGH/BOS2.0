@@ -15,6 +15,7 @@
         <module>../crm_domain</module>
         <module>../crm_management</module>
         <module>../bos_fore</module>
+        <module>../bos_sms</module>
     </modules>
 
     <properties>

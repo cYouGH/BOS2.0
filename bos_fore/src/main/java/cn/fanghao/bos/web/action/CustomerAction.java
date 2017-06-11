@@ -10,11 +10,17 @@ import org.apache.struts2.convention.annotation.Namespace;
 import org.apache.struts2.convention.annotation.ParentPackage;
 import org.apache.struts2.convention.annotation.Result;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Scope;
 import org.springframework.data.redis.core.RedisTemplate;
+import org.springframework.jms.core.JmsTemplate;
+import org.springframework.jms.core.MessageCreator;
 import org.springframework.stereotype.Controller;
 
-import javax.jws.WebService;
+import javax.jms.JMSException;
+import javax.jms.MapMessage;
+import javax.jms.Message;
+import javax.jms.Session;
 import javax.ws.rs.core.MediaType;
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
@@ -28,26 +34,40 @@ import java.util.concurrent.TimeUnit;
 @Scope(value = "prototype")
 public class CustomerAction extends BaseAction<Customer> {
 
-    private String checkCode;
+    // 注入消息队列Queue模板
+    @Autowired
+    @Qualifier("jmsQueueTemplate")
+    private JmsTemplate jmsTemplate;
+
 
     @Action(value = "customer_sendSms")
     public String sendSms() {
-        try {
+       /* try {*/
             //手机号推荐保存在Customer对象中
             // 生成短信验证码
 
             //String randomCode = RandomStringUtils.randomNumeric(4);
-            String randomCode = "8888";
+            final String randomCode = "8888";
 
             ServletActionContext.getRequest().getSession().
                     setAttribute(model.getTelephone(), randomCode);
             //获取用户手机号
             String telephone = model.getTelephone();
-            //调用AliDaYu 短信验证
 
+            // 调用MQ服务，发送一条消息
+            jmsTemplate.send("bos_sms", new MessageCreator() {
+                @Override
+                public Message createMessage(Session session) throws JMSException {
+                    MapMessage mapMessage = session.createMapMessage();
+                    mapMessage.setString("telephone",model.getTelephone());
+                    mapMessage.setString("randomCode",randomCode);
+                    return mapMessage;
+                }
+            });
+
+            /*//调用AliDaYu 短信验证
             //String result = AliCodeUtils.sendSmsByHTTP(telephone, randomCode);
             String result = "\"success\":true";
-
             if (result != null && result.contains("\"success\":true")) {
                 return NONE;
             } else {
@@ -56,9 +76,11 @@ public class CustomerAction extends BaseAction<Customer> {
 
         } catch (Exception e) {
             e.printStackTrace();
-        }
+        }*/
         return NONE;
     }
+
+    private String checkCode;
 
     public void setCheckCode(String checkCode) {
         this.checkCode = checkCode;
