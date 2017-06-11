@@ -42,9 +42,7 @@ public class CustomerAction extends BaseAction<Customer> {
 
     @Action(value = "customer_sendSms")
     public String sendSms() {
-       /* try {*/
-            //手机号推荐保存在Customer对象中
-            // 生成短信验证码
+
 
             //String randomCode = RandomStringUtils.randomNumeric(4);
             final String randomCode = "8888";
@@ -65,18 +63,7 @@ public class CustomerAction extends BaseAction<Customer> {
                 }
             });
 
-            /*//调用AliDaYu 短信验证
-            //String result = AliCodeUtils.sendSmsByHTTP(telephone, randomCode);
-            String result = "\"success\":true";
-            if (result != null && result.contains("\"success\":true")) {
-                return NONE;
-            } else {
-                throw new RuntimeException("短信发送失败：" + result);
-            }
 
-        } catch (Exception e) {
-            e.printStackTrace();
-        }*/
         return NONE;
     }
 
