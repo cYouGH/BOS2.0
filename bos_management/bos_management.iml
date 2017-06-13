@@ -45,7 +45,9 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="commons-fileupload-1.2.1" level="project" />
     <orderEntry type="module" module-name="crm_domain" />
+    <orderEntry type="module" module-name="bos_domain" />
     <orderEntry type="library" name="Maven: org.apache.shiro:shiro-all:1.2.2" level="project" />
     <orderEntry type="library" name="Maven: org.apache.shiro:shiro-guice:1.2.2" level="project" />
     <orderEntry type="library" name="Maven: org.apache.shiro:shiro-core:1.2.2" level="project" />

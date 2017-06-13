@@ -10,6 +10,9 @@
           <element id="archive" name="crm_domain-1.0-SNAPSHOT.jar">
             <element id="module-output" name="crm_domain" />
           </element>
+          <element id="archive" name="bos_domain-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="bos_domain" />
+          </element>
           <element id="library" level="project" name="Maven: org.apache.shiro:shiro-all:1.2.2" />
           <element id="library" level="project" name="Maven: org.apache.shiro:shiro-guice:1.2.2" />
           <element id="library" level="project" name="Maven: org.apache.shiro:shiro-core:1.2.2" />

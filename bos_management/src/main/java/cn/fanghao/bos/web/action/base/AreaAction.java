@@ -1,12 +1,8 @@
 package cn.fanghao.bos.web.action.base;
 
 import cn.fanghao.bos.domain.base.Area;
-import cn.fanghao.bos.domain.base.Courier;
 import cn.fanghao.bos.service.base.AreaService;
 import cn.fanghao.bos.utils.PinYin4jUtils;
-import com.opensymphony.xwork2.ActionContext;
-import com.opensymphony.xwork2.ActionSupport;
-import com.opensymphony.xwork2.ModelDriven;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.poi.hssf.usermodel.HSSFSheet;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
@@ -29,12 +25,9 @@ import javax.persistence.criteria.Predicate;
 import javax.persistence.criteria.Root;
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 /**
  * Created by eggdog on 2017/6/3.
